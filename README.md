@@ -2,7 +2,7 @@
 
 If nobody taught you how to draw, _how_ would you do it? You wouldn't randomly guess like this ML, but you might throw down a few rough curves and adjust them until they fit the subject. In **Learn2Draw**, we simulated human trial-and-error in drawing. We built an engine that learns to draw the way we do: one calculated stroke at a time.
 
-_Note: this project was built and trains on a personal CUDA server. To try it yourself, connect to CS portal resources or use [Google](https://colab.research.google.com/drive/1Ueru2g_KrcPPHEuMJBv2rnU-41EaWtNL#scrollTo=dk8Ael0T7y2j) Colab (slow)._
+_Note: this project was built (and ran) on a personal CUDA server. To try it yourself, connect to CS portal resources or use [Google Colab](https://colab.research.google.com/drive/1Ueru2g_KrcPPHEuMJBv2rnU-41EaWtNL#scrollTo=dk8Ael0T7y2j) (slow)._
 
 ## Inspiration
 Wanted to explore ML, mathematics, and digital art. Traditional AI models output grids of colored pixels. We asked: Can we teach a neural network to **draw like a human**, and represent that drawing entirely through algebraic equations?
