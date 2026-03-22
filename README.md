@@ -33,3 +33,11 @@ We gained a deep understanding of differentiable geometry and how to map continu
 
 ## What's next for Learn2Draw
 We could build an SVG exporter so the generated equations can be saved and dropped directly into software like Adobe Illustrator. We also plan to package the entire environment into a Google Colab notebook so anyone can generate mathematical art using cloud GPUs without needing to configure a local Python environment. Finally, we want to experiment with evolutionary algorithms (like PySR) to see if we can generate even weirder, non-Bezier mathematical art!
+
+<img width="1501" height="805" alt="Screenshot 2026-03-22 at 5 51 32 AM" src="https://github.com/user-attachments/assets/5a1b3af5-3a9e-4ef7-8581-7cb82b941e7b" />
+<img width="1327" height="862" alt="Screenshot 2026-03-22 at 6 18 46 AM" src="https://github.com/user-attachments/assets/3630f923-1698-40b1-88ef-a9761bf10700" />
+<img width="1325" height="862" alt="Screenshot 2026-03-22 at 6 19 15 AM" src="https://github.com/user-attachments/assets/8e2881ea-381f-472b-9a5b-eca1b9dc5311" />
+<img width="1323" height="858" alt="Screenshot 2026-03-22 at 6 19 55 AM" src="https://github.com/user-attachments/assets/822ec11a-e2c1-42c8-b4f7-e4bfc7c26e1a" />
+<img width="97" height="70" alt="Screenshot 2026-03-22 at 6 27 18 AM" src="https://github.com/user-attachments/assets/4cee9ace-cb1e-414e-b708-137d1bc4975f" />
+<img width="405" height="30" alt="Screenshot 2026-03-22 at 11 44 18 AM" src="https://github.com/user-attachments/assets/3dc52419-26b0-4933-a22a-3275ce1d8db5" />
+
